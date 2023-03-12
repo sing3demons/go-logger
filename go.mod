@@ -1,4 +1,4 @@
-module github.com/sing3demons/gin/contrib
+module github.com/sing3demons/logger
 
 go 1.20
 

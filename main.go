@@ -6,9 +6,9 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sing3demons/gin/contrib/logger"
-	"github.com/sing3demons/gin/contrib/middleware"
-	"github.com/sing3demons/gin/contrib/response"
+	"github.com/sing3demons/logger/logger"
+	"github.com/sing3demons/logger/middleware"
+	"github.com/sing3demons/logger/response"
 )
 
 func main() {
